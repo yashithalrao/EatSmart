@@ -1,4 +1,4 @@
-# CodeCraft_Tech-Bots
+# EatSmart-Calorie Optimization
 
 Description:
 
